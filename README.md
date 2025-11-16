@@ -1,5 +1,4 @@
-READ ME PLEASE!
-
+This is the rough wireframe draft of my HTML website for SDEV 153.
 
 
 
